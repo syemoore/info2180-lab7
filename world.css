@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    padding : 10px solid black;
+    width: 50%;
+}
+
+button {
+
+    color: #ff9797;
+    background-color: #ff3030;
+    border-radius: 20px;
+}
+
+h1,label {
+
+    color: #3d3d3a;
+    text-align: center;
+}
+
+table,th,td {
+	
+	border: 1px solid #ff3030;
+	border-collapse: collapse;
+	margin: auto;
+}
